@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nookbe
-- 🌱 I’m working with Ruby on Rails since 2018. 
+- 🌱 I’m curious about AI.
 
 
 <!---
