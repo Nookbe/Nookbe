@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Nookbe
-- 🌱 Ruby on Rails hardo turned Python and AI dev.
+- AI Engineer at dataguard.com
+- Former Backend Engineer at portagon.com
 
 
 <!---
