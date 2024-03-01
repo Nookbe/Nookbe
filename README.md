@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nookbe
-- 🌱 I’m curious about AI.
+- 🌱 Ruby on Rails hardo turned Python and AI dev.
 
 
 <!---
